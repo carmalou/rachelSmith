@@ -1,0 +1,19 @@
+body { 
+  background-image: url(images/image_1.jpg), url(images/lawyers.jpg), url(images/lawyer_3) repeat-x center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+hiddenContent {
+	width: 600px;
+	height: 600px;
+	background-color: #778899;
+	float: right;
+}
+
+footer {
+float: left;
+float: right;
+}
